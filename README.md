@@ -44,7 +44,7 @@ Repare que também criei uma `small` com o texto informando quais são os caract
     Os caracteres \\|/!#$%*& não são permitidos
 </small>
 ```
-Quando digitar um caractere que não é aceito, o input type='email' vai ficar com a borda vermelha, e a small com a mensagem de erro irá aparecer. Se o próximo caractere digitado, for um valor válido, a borda do input type='email' retornar como defeult e a small com a mensagem de erro irá desaparecer.
+Quando digitar um caractere que não é aceito, o `input type='email'` vai ficar com a borda vermelha, e a small com a mensagem de erro irá aparecer. Se o próximo caractere digitado, for um valor válido, a borda do `input type='email'` retornar como defeult e a small com a mensagem de erro irá desaparecer.
 
 ### Formulário Sem Informação
 <img src="src\img\1.png" width="100%">
