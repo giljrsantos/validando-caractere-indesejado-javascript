@@ -1,0 +1,16 @@
+.emailErrorCaracter {
+    color: red !important;
+}
+
+.inputEmailError {
+    border: 2px solid #f00 !important;
+    display: block;
+}
+
+.emailErrorCaracterHidden {
+    display: none;
+}
+
+form {
+    margin-top: 15%;
+}
