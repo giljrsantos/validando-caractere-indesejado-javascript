@@ -2,7 +2,6 @@
 
 Neste exemplo, estou validando a entrada do usuário em um campo de entrada de e-mail. Ao criar/ou informar um e-mail, alguns caracteres não são permitidos, ex: `\\|/!#$%*&`. Então criei uma validação simples, mas de muita utilidade.
 
-### 1º Passo
 Criei um arquivo externo `js` e criei uma função onde faço toda a validação.
     
 A validação remove quaisquer caracteres indesejados do valor de entrada.
